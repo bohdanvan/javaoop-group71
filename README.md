@@ -5,6 +5,12 @@ Prog.kiev.ua. Java OOP. Группа 71
 
 [Java OOP. Богдан. Группа 71. Лекции 1-2 (27.01.2018)](https://prog.kiev.ua/forum/index.php/topic,3417.0.html)
 
+## Запуск проекта локально в Intellij IDEA
+
+1. Скачать исходный код в виде архива (кнопка **Clone or download**).
+2. Распаковать архив.
+3. **Intellij IDEA**: File -> New -> Project from Existing Sources... -> Выбрать директорию с проектом -> All next...
+
 ## Видео/аудио лекций другой группы
 
 [Видеозапись лекций](https://mega.nz/#F!fI9ACBqB)
