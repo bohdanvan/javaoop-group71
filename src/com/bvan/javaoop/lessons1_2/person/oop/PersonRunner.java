@@ -11,8 +11,6 @@ public class PersonRunner {
         System.out.println(tarasInfo);
         System.out.println(taras.getName());
 
-        taras.setAge(10);
-
         Person vlad = new Person("Vlad", 30);
         String vladInfo = vlad.sayHello();
         System.out.println(vladInfo);

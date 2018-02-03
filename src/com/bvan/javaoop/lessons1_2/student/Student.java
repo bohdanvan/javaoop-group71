@@ -10,7 +10,7 @@ public class Student { // DTO (Data Transfer Object)
     private String phoneNumber;
     private int level;
 
-    public String getName() {
+    public String name() {
         return name;
     }
 
